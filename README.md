@@ -36,6 +36,6 @@ The project uses the Hotel Booking Demand dataset containing information about h
 - Pandas
 - NumPy
 - Scikit-learn
-- TensorFlow / Keras
+- TensorFlow
 - Matplotlib
 - Seaborn
