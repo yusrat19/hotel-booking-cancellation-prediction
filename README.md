@@ -30,7 +30,7 @@ The models were evaluated using:
 
 The project uses the Hotel Booking Demand dataset containing information about hotel reservations, customer details, booking status, and cancellation records.
 
-## Technologies Used
+## Libraries Used
 
 - Python
 - Pandas
